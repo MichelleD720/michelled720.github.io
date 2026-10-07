@@ -7,7 +7,7 @@ ____________
 Here, you’ll find a showcase of my journey through the world of IT, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
 ## 📜 Certifications:
-- [CompTIA A+](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1750277092138/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+- [CompTIA A+](https://www.linkedin.com/in/michelle-dang-720rm-rf/overlay/Certifications/1997847644/treasury/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
 - [CompTIA Network+](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1750277092138/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
 - [ITIL® v4 Foundation](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1739312230908/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
 
