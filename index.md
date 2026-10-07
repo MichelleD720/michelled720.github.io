@@ -8,8 +8,11 @@ Here, you’ll find a showcase of my journey through the world of IT, including 
 
 ## 📜 Certifications:
 - [CompTIA A+](https://www.linkedin.com/in/michelle-dang-720rm-rf/overlay/Certifications/1997847644/treasury/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
-- [CompTIA Network+](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1750277092138/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+- [CompTIA Network+](https://www.linkedin.com/in/michelle-dang-720rm-rf/overlay/Certifications/77846562/treasury/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+- [CompTIA Security+](https://www.linkedin.com/in/michelle-dang-720rm-rf/overlay/Certifications/460763130/treasury/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
 - [ITIL® v4 Foundation](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1739312230908/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+- [Linux Essentials Certification](https://www.linkedin.com/in/michelle-dang-720rm-rf/overlay/Certifications/2032788659/treasury/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+- [CompTIA Project+](https://www.linkedin.com/in/michelle-dang-720rm-rf/overlay/Certifications/1372797943/treasury/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
 
 ## 🎓 Education:
 **Western Governors University**
